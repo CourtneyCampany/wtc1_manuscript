@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  14 APR 2015 16:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  21 AUG 2015 08:50
 entering extended mode
 **wtc1_paper.tex
 (C:\Users\90919620\github_repos\wtc1_manuscript\wtc1_paper.tex
@@ -556,19 +556,57 @@ LaTeX Font Info:    Font shape `T1/fosj/b/it' will be
  [3] [4]
 LaTeX Font Info:    Font shape `T1/fosj/m/it' will be
 (Font)              scaled to size 9.49997pt on input line 148.
- [5]
-<./figures/wtc_concept.png, id=33, 383.9946pt x 350.2686pt>
+
+! Undefined control sequence.
+l.156 ...eplicate root cores (10~cm\textsuperscipt
+                                                  {2} diameter) were taken f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.156 ...chamber floor area (325~cm\textsuperscipt
+                                                  {2}) to calculate standing...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+{\textit {Above and belowgrount chamber CO\textsubscript {2} flux} 
+! Paragraph ended before \@ssect was complete.
+<to be read again> 
+                   \par 
+l.159 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Undefined control sequence.
+l.160 ...f the raw 14~min (mol hour\textsupescript
+                                                  {-1}) from each chamber.  ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5] [6] <./figures/wtc_concept.png, id=36, 383.9946pt x 350.2686pt>
 File: ./figures/wtc_concept.png Graphic file (type png)
 
 <use ./figures/wtc_concept.png>
-Package pdftex.def Info: ./figures/wtc_concept.png used on input line 163.
+Package pdftex.def Info: ./figures/wtc_concept.png used on input line 176.
 (pdftex.def)             Requested size: 422.52577pt x 385.43561pt.
 
-<./figures/WTCI_fluxmass.pdf, id=35, 690.58pt x 690.58pt>
+<./figures/WTCI_fluxmass.pdf, id=38, 690.58pt x 690.58pt>
 File: ./figures/WTCI_fluxmass.pdf Graphic file (type pdf)
 
 <use ./figures/WTCI_fluxmass.pdf>
-Package pdftex.def Info: ./figures/WTCI_fluxmass.pdf used on input line 171.
+Package pdftex.def Info: ./figures/WTCI_fluxmass.pdf used on input line 184.
 (pdftex.def)             Requested size: 422.52577pt x 422.5282pt.
 
 
@@ -578,10 +616,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Package caption Warning: Unused \captionsetup[table] on input line 48.
 See the caption package documentation for explanation.
 
-[6
+[7
 
  <C:/Users/90919620/github_repos/wtc1_manuscript/figures/wtc_concept.png>]
-[7 <C:/Users/90919620/github_repos/wtc1_manuscript/figures/WTCI_fluxmass.pdf>]
+[8 <C:/Users/90919620/github_repos/wtc1_manuscript/figures/WTCI_fluxmass.pdf>]
 (C:\Users\90919620\github_repos\wtc1_manuscript\wtc1_paper.aux) ) 
 Here is how much of TeX's memory you used:
  6639 strings out of 493921
@@ -608,9 +646,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb>
-Output written on wtc1_paper.pdf (7 pages, 180389 bytes).
+Output written on wtc1_paper.pdf (8 pages, 183754 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  15 words of extra memory for PDF output out of 10000 (max. 10000000)
 
